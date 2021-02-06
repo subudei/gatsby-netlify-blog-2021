@@ -1,0 +1,25 @@
+.blog__page__container {
+  display: flex;
+  width: 100%;
+  min-height: 80vh;
+  padding-top: 5rem;
+  justify-content: center;
+
+  .blog__index__list {
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+
+    .blog__page__item {
+      background-color: wheat;
+      width: 60vw;
+      height: 15vh;
+      margin-bottom: 2rem;
+      cursor: pointer;
+
+      .blog__page__link {
+        text-decoration: none;
+      }
+    }
+  }
+}
