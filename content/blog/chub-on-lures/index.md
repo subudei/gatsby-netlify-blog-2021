@@ -1,31 +1,17 @@
 ---
 title: Chub on lures
 date: 2021-02-09T17:55:43.292Z
-description: The current growth in anglers lure fishing has seen a fantastic rise in the popularity of perch, pike and zander as target species. But there is one predatory species, native to the UK and found all over the place that has largely gone under the radar for most lure chuckers...
+description: Spin fishing chub with UL gear.
 ---
 ## Spinning Chub
-
-
 
 ![Spin fishing on a small river](chub1.jpg "Small rivers are perfect for chub spin fishing on UL.")
 
 
 
-The current growth in anglers lure fishing has seen a fantastic rise in the popularity of perch, pike and zander as target species. But there is one predatory species, native to the UK and found all over the place that has largely gone under the radar for most lure chuckers.
-
-Chub are widespread through our river systems, they grow bigger than perch, fight dirty and during the summer and autumn months they feast on the year’s fry - making them the perfect target for a well-presented lure.
-
-As soon as the rivers are open on I fish all summer for chub on lures - although for me it’s the months of September, October and early November that are my favourite times.
-
-
-
 ### Tacle
 
-
-
 ![fishing tackle](tackle.jpg "Ul tackle and rood for chub.")
-
-
 
 My personal choice is a 7’2” 3g-15g rod with preferably a hollow tip, however most ultralight rods will be more than adequate, the Ultron 2 Street 7foot 5-15gram is a great choice for this kind of work. I go for a slightly longer rod because they work better on a river where you often have rushes and other cover that you need to reach over on the margins.
 
@@ -33,47 +19,27 @@ When it comes to reels again a size of 1000 to 3000 loaded with 8lb to 12lb brai
 
 The final part of my terminal tackle apart from the end lure is a small micro snap. The reason for this is that it simply allows me to change my lure quickly to suit varying swims and presentations
 
-
-
 ### Lures
-
-
 
 Chub love surface and shallow running lures and small floating crank baits are my number one choice. There are so many to choose from but my starter for ten is the Fox Funk Bug in the 4cm Shallow Runner or 5cm Deep Runner. The 4cm version is great on small rivers in ideal conditions, while the 5cm version adds a bit of extra weight and ‘plop’ when on wider reaches or on blustery days. Although classed as a deep runner it’s still a floater and can be worked shallow if needed if you lift your rod and get your retrieve right.
 
 In addition to a range of floating crank baits I also carry 4cm to 6cm suspending and sinking baits. Salmo lures fill this gap perfectly for me, but everyone will find their own favourites. Top water poppers also have their day especially so during the summer months.
 
-
-
 ![lures](chub3.jpg "Lures for chub.")
 
-
-
 ### Colors
-
-
 
 Personally, I don’t think colour is as important as action and ‘plop’ (which I’ll explain in a bit). Everyone has their own ‘go to’ colour but for me naturals are number one with Silver Baitfish, Real Shiner and Cool Herring attracting a lot of hits.
 
 Salmo produce Dace, Brown Trout and Minnow versions of their lures which I’ve found work brilliantly. But these are just a few of those available and I know other anglers who have had great success on Firetiger, Bright Orange and other ‘flashy’ colours. Lure fishing is all about confidence in what you have on the end of your line and confidence helps you catch fish for sure – so my advice is to use what you think works for you.
 
-
-
 ### Hooks
-
-
 
 Nearly all lures come equipped with one or two trebles designed to work straight out of the packet. That’s fine and you’ll catch fish on these no problems, However, I nearly always opt to change mine to singles, a personal choice, but one I find works really well for me with hook-ups and with unhooking. If you are sticking with trebles then I’d advice you to grab your pliers and close the barbs in. Trust me it makes life much easier with chub….
 
-
-
 ### Swim Selection
 
-
-
 ![Chub](chub-5.jpg "Chub is a great fighter.")
-
-
 
 Chub are lovers of far bank cover, be it rafts of weed and debris or overhanging bushes and trees. Not every ‘chubby looking’ swim will hold them but many will. On a typical session, I’ll usually start with the aforementioned floating crank bait and make the first couple of casts a foot or so short or the cover I’m expecting the chub to be under. And here comes a warning! Get ready straight away and be prepared to get a surface take before you can move your lure. As I’ve said, chub come to the ‘plop’ - some lures seem to make a better ‘plop’ than others - and the number of times this happens means that you should be ready for ‘instant action’.
 
@@ -89,20 +55,12 @@ My theory on why chub are this tight to the stalks is that damsels and many othe
 
 The swims mentioned so far have all been far bank options, but as you work the river think as if you were also on the opposite bank. Your own bank bushes and reeds would look so inviting from the far bank. Think about it.
 
-
-
 ### Single hooks choices
 
-
-
 ![single hook on lure](single-hook.jpg "Lures with single hook get less damage to the fish.")
-
-
 
 If you leave the split ring on your lure then you’re restricted to using ‘inline’ hooks with a large ring. Whilst there are plenty to choose from, I’ve also replaced the split ring on some lures with a micro snap. This gives you several advantages. You can use your favourite hook choice (a wide gape drop shot hook works really well). Your hook is dropped slightly farther back behind the lure which had given me a better hook up rate when the fish are being a bit wary and are turning short. It also increases the number of perch you hook that follow to your feet and turn away (now they turn with a hook in the corner of their mouth).
 
 Finally, if you balance the pressure at which the snap will open with the rest of your tackle when you apply maximum pressure from the bank you might just get an extra lure or two back when you have cast just an inch or two too close to the far bank.
-
-
 
 See you on the water.
