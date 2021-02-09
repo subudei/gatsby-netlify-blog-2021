@@ -1,3 +1,80 @@
-.blog__index__list {
+.blog__container {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  min-height: 100vh;
+
+  .blog__title {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 96, 68);
+
+    .blog__header {
+      color: #00291f;
+    }
+
+    .blog__date {
+      color: #005a44;
+      text-align: end;
+      font-size: 0.8rem;
+    }
+  }
+  .blog__body {
+    width: 80%;
+    text-align: justify;
+    margin: auto;
+
+    h1 {
+      color: rgb(255, 96, 68);
+      text-align: center;
+      margin: 3.5rem auto;
+      letter-spacing: 0.1rem;
+      font-size: 1.2rem;
+    }
+
+    h2 {
+      color: rgb(255, 96, 68);
+      text-align: center;
+      margin: 3.5rem auto;
+      letter-spacing: 0.1rem;
+      font-size: 1.2rem;
+    }
+    h3 {
+      color: rgb(255, 96, 68);
+      text-align: center;
+      margin: 3.5rem auto;
+      letter-spacing: 0.1rem;
+      font-size: 1.1rem;
+    }
+    span {
+      margin: 3.5rem auto;
+    }
+    p {
+      color: #00291f;
+      letter-spacing: 00.05rem;
+      line-height: 1.5;
+    }
+  }
+}
+.blog__bottom__nav {
+  width: 80%;
+  margin: auto;
+  margin-top: 5rem;
+  margin-bottom: 2rem;
+  display: flex;
+  justify-content: space-between;
   list-style: none;
+
+  .blog__nav__links {
+    text-decoration: none;
+    font-size: 1rem;
+    color: rgb(255, 96, 68);
+
+    &:hover {
+      transition: 200ms;
+      color: #00291f;
+      text-decoration: underline;
+    }
+  }
 }

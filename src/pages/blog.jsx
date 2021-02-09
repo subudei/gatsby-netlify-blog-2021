@@ -24,14 +24,24 @@ const BlogIndex = ({ data, location }) => {
                   to={post.fields.slug}
                   itemProp="url"
                 >
-                  <h2>{title}</h2>
-                  <p>{post.frontmatter.date}</p>
-                  <p
-                    dangerouslySetInnerHTML={{
-                      __html: post.frontmatter.description || post.excerpt,
-                    }}
-                    itemProp="description"
-                  />
+                  <h2 className="blog__post__title">{title}</h2>
+                  <div className="blog__post__sub__title">
+                    <p className="blog__post__date" p>
+                      {post.frontmatter.date}
+                    </p>
+                    <p className="blog__post__reading__time">
+                      Time to Read {post.timeToRead} min.
+                    </p>
+                  </div>
+                  <div className="blog__post__description__div">
+                    <span
+                      className="blog__post__description"
+                      dangerouslySetInnerHTML={{
+                        __html: post.frontmatter.description || post.excerpt,
+                      }}
+                      itemProp="description"
+                    />
+                  </div>
                 </Link>
               </li>
             )
@@ -62,6 +72,7 @@ export const pageQuery = graphql`
           title
           description
         }
+        timeToRead
       }
     }
   }

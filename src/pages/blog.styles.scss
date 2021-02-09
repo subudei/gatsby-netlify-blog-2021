@@ -4,21 +4,64 @@
   min-height: 80vh;
   padding-top: 5rem;
   justify-content: center;
+  background: rgb(255, 255, 255);
 
   .blog__index__list {
+    width: 60vw;
     display: flex;
     flex-direction: column;
+
     list-style: none;
 
     .blog__page__item {
-      background-color: wheat;
-      width: 60vw;
-      height: 15vh;
+      background-color: #2c2c2c;
+      width: 100%;
+      min-height: 20vh;
+      padding: 1rem 2rem;
       margin-bottom: 2rem;
       cursor: pointer;
 
       .blog__page__link {
         text-decoration: none;
+
+        .blog__post__title {
+          color: rgb(255, 255, 255);
+          text-align: center;
+          font-size: 1.4rem;
+          margin-bottom: 1.4rem;
+          letter-spacing: 0.15rem;
+        }
+        .blog__post__sub__title {
+          display: flex;
+          width: 100%;
+          justify-content: space-between;
+          margin-bottom: 1.5rem;
+
+          .blog__post__reading__time {
+            text-align: end;
+            margin-right: 2rem;
+            font-size: 0.8rem;
+            letter-spacing: 0.12rem;
+          }
+          .blog__post__date {
+            text-align: start;
+            margin-left: 2rem;
+            font-size: 0.8rem;
+            letter-spacing: 0.12rem;
+          }
+        }
+        .blog__post__description__div {
+          display: flex;
+
+          width: 90%;
+
+          .blog__post__description {
+            color: rgb(224, 125, 125);
+            justify-self: auto;
+            font-size: 0.8rem;
+            letter-spacing: 0.12rem;
+          }
+        }
       }
     }
   }
