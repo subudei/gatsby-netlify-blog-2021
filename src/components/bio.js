@@ -1,11 +1,5 @@
-/**
- * Bio component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.com/docs/use-static-query/
- */
-
 import React from "react"
+import "./bio.styles.scss"
 import { useStaticQuery, graphql } from "gatsby"
 import Image from "gatsby-image"
 
@@ -14,7 +8,7 @@ const Bio = () => {
     query BioQuery {
       avatar: file(absolutePath: { regex: "/profile-pic.jpg/" }) {
         childImageSharp {
-          fixed(width: 50, height: 50, quality: 95) {
+          fixed(width: 400, height: 400, quality: 95) {
             ...GatsbyImageSharpFixed
           }
         }
@@ -25,42 +19,38 @@ const Bio = () => {
             name
             summary
           }
-          social {
-            twitter
-          }
         }
       }
     }
   `)
 
-  // Set these values by editing "siteMetadata" in gatsby-config.js
   const author = data.site.siteMetadata?.author
-  const social = data.site.siteMetadata?.social
 
   const avatar = data?.avatar?.childImageSharp?.fixed
 
   return (
-    <div className="bio">
-      {avatar && (
-        <Image
-          fixed={avatar}
-          alt={author?.name || ``}
-          className="bio-avatar"
-          imgStyle={{
-            borderRadius: `50%`,
-          }}
-        />
-      )}
-      {author?.name && (
-        <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
-          <a href={`https://twitter.com/${social?.twitter || ``}`}>
-            You should follow them on Twitter
-          </a>
+    <>
+      <h1 className="bio__title">Santiago (Cuban fisherman)</h1>
+      <div className="bio__container">
+        {avatar && (
+          <Image
+            fixed={avatar}
+            alt={author?.name || ``}
+            className="bio__image"
+            imgStyle={{
+              borderRadius: `5%`,
+            }}
+          />
+        )}
+
+        <p className="bio__about">
+          The Old Man and the Sea, short heroic novel by Ernest Hemingway,
+          published in 1952 and awarded the 1953 Pulitzer Prize for fiction. It
+          was his last major work of fiction. The story centres on an aging
+          fisherman who engages in an epic battle to catch a giant marlin.
         </p>
-      )}
-    </div>
+      </div>
+    </>
   )
 }
 

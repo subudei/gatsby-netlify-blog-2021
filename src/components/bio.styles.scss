@@ -1,0 +1,25 @@
+.bio__title {
+  text-align: center;
+  letter-spacing: 0.15rem;
+  margin-bottom: 5rem;
+  color: #00291f;
+}
+.bio__container {
+  width: 80%;
+  height: 80vh;
+  display: flex;
+  margin: auto;
+
+  .bio__image {
+    margin-left: 2rem;
+  }
+
+  .bio__about {
+    color: #00291f;
+    padding-left: 2rem;
+    max-width: 40vw;
+    font-size: 1.1rem;
+    letter-spacing: 0.1rem;
+    line-height: 1.5;
+  }
+}

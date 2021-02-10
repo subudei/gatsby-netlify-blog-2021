@@ -1,5 +1,7 @@
 import React from "react"
 import "./blog.styles.scss"
+
+import Logo from "../assets/angler.png"
 import { Link, graphql } from "gatsby"
 
 import Layout from "../components/layout/layout"
@@ -13,6 +15,7 @@ const BlogIndex = ({ data, location }) => {
     <Layout location={location} title={siteTitle}>
       <SEO title="All posts" />
       <div className="blog__page__container">
+        <img className="blog__page__logo" src={Logo} alt="logo" />
         <ul className="blog__index__list">
           {posts.map(post => {
             const title = post.frontmatter.title || post.fields.slug
