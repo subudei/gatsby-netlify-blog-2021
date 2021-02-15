@@ -33,14 +33,17 @@
       font-size: 1.2rem;
     }
 
-    h2 {
+    h2,
+    h1 {
       color: rgb(255, 96, 68);
       text-align: center;
       margin: 3.5rem auto;
       letter-spacing: 0.1rem;
       font-size: 1.2rem;
     }
-    h3 {
+    h3,
+    h4,
+    h5 {
       color: rgb(255, 96, 68);
       text-align: center;
       margin: 3.5rem auto;
@@ -54,6 +57,10 @@
       color: #00291f;
       letter-spacing: 00.05rem;
       line-height: 1.5;
+    }
+    li {
+      color: #00291f;
+      line-height: 2;
     }
   }
 }
@@ -77,4 +84,6 @@
       text-decoration: underline;
     }
   }
+}
+@media screen and (max-width: 960px) {
 }

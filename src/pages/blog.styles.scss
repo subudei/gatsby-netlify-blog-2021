@@ -24,12 +24,6 @@
 
     .blog__page__item {
       width: 100%;
-      // background-image: url("../assets/fish.png");
-      // background-size: cover;
-      // background-position: center;
-      // background-repeat: no-repeat;
-      // // background: rgba(148, 101, 93, 0.2);
-
       min-height: 30vh;
       padding: 1rem 2rem;
       margin-bottom: 2rem;
@@ -81,6 +75,39 @@
           font-size: 1.6rem;
           letter-spacing: 0.15rem;
           transition: ease-in 400ms;
+        }
+      }
+    }
+    @media screen and (max-width: 960px) {
+      .blog__page__item {
+        .blog__page__link {
+          .blog__post__title {
+            font-size: 1.2rem;
+            text-align: center;
+          }
+          .blog__post__sub__title {
+            display: flex;
+            flex-direction: column;
+            justify-content: inherit;
+            place-items: start;
+
+            .blog__post__date {
+              margin-bottom: 1rem;
+              font-size: 0.6rem;
+              text-align: start;
+            }
+            .blog__post__reading__time {
+              font-size: 0.6rem;
+              text-align: start;
+              margin-bottom: 1rem;
+            }
+          }
+          .blog__post__description__div {
+            .blog__post__description {
+              font-size: 1.2rem;
+              text-align: start;
+            }
+          }
         }
       }
     }

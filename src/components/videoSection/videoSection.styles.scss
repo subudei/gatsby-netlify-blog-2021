@@ -14,7 +14,7 @@ video {
   align-items: center;
 
   .video__section__message {
-    font-size: 2.5rem;
+    font-size: 3.5rem;
     letter-spacing: 0.4rem;
     color: white;
   }
@@ -25,7 +25,6 @@ video {
     background-color: rgb(255, 96, 68);
     color: white;
     border: 0.2rem solid rgb(255, 96, 68);
-
     text-transform: capitalize;
     font-size: 1.2rem;
     font-weight: 500;
@@ -36,6 +35,17 @@ video {
       color: rgb(255, 96, 68);
       transition: 200ms;
       font-weight: 800;
+    }
+  }
+
+  @media screen and (max-width: 960px) {
+    .video__section__message {
+      font-size: 1.2rem;
+      text-align: center;
+    }
+    .video__section__btn {
+      padding: 0.3rem 0.6rem;
+      font-size: 0.6rem;
     }
   }
 }
