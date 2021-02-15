@@ -7,17 +7,21 @@ description: Spin fishing chub with UL gear.
 
 ![Spin fishing on a small river](chub1.jpg "Small rivers are perfect for chub spin fishing on UL.")
 
-
-
 ### Tacle
 
-![fishing tackle](tackle.jpg "Ul tackle and rood for chub.")
 
-My personal choice is a 7’2” 3g-15g rod with preferably a hollow tip, however most ultralight rods will be more than adequate, the Ultron 2 Street 7foot 5-15gram is a great choice for this kind of work. I go for a slightly longer rod because they work better on a river where you often have rushes and other cover that you need to reach over on the margins.
 
 When it comes to reels again a size of 1000 to 3000 loaded with 8lb to 12lb braid will work. I use 10lb braid with an 8lb fluorocarbon leader, and while an 8lb leader might seem a little strong, trust me, when you’re hooked up to a fish in the region of 5lb under far bank cover you’ll see why I use it! Chub are masters at transferring your hook from their mouth to underwater snags. I’m not sure how they do it, but they most certainly can if you don’t have the tackle to get them into clear water quickly.
 
 The final part of my terminal tackle apart from the end lure is a small micro snap. The reason for this is that it simply allows me to change my lure quickly to suit varying swims and presentations
+
+
+
+![fishing tackle](tackle.jpg "Ul tackle and rood for chub.")
+
+
+
+
 
 ### Lures
 
@@ -33,9 +37,19 @@ Personally, I don’t think colour is as important as action and ‘plop’ (whi
 
 Salmo produce Dace, Brown Trout and Minnow versions of their lures which I’ve found work brilliantly. But these are just a few of those available and I know other anglers who have had great success on Firetiger, Bright Orange and other ‘flashy’ colours. Lure fishing is all about confidence in what you have on the end of your line and confidence helps you catch fish for sure – so my advice is to use what you think works for you.
 
+
+
+![Walk the dog](kruz-sk-photography-11.jpg "Walk the Dog tehnique")
+
 ### Hooks
 
 Nearly all lures come equipped with one or two trebles designed to work straight out of the packet. That’s fine and you’ll catch fish on these no problems, However, I nearly always opt to change mine to singles, a personal choice, but one I find works really well for me with hook-ups and with unhooking. If you are sticking with trebles then I’d advice you to grab your pliers and close the barbs in. Trust me it makes life much easier with chub….
+
+
+
+![Sacura](k39223113_265276124085977_548123206624477184_n.jpg "Sacura Cranck")
+
+
 
 ### Swim Selection
 
