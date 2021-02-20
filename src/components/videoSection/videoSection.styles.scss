@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Caveat&display=swap");
+
 video {
   object-fit: cover;
   width: 100%;
@@ -17,6 +19,15 @@ video {
     font-size: 3.5rem;
     letter-spacing: 0.4rem;
     color: white;
+  }
+  .video__section__description {
+    font-size: 3rem;
+    font-weight: 200;
+    letter-spacing: 0.1rem;
+    font-family: "Caveat", cursive;
+
+    color: white;
+    margin-bottom: 1.5rem;
   }
 
   .video__section__btn {
@@ -40,6 +51,10 @@ video {
 
   @media screen and (max-width: 960px) {
     .video__section__message {
+      font-size: 1.2rem;
+      text-align: center;
+    }
+    .video__section__description {
       font-size: 1.2rem;
       text-align: center;
     }

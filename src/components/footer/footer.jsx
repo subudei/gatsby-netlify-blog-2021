@@ -11,6 +11,7 @@ function Footer() {
         siteMetadata {
           author {
             name
+            summary
           }
         }
       }
@@ -22,6 +23,9 @@ function Footer() {
         <h1 className="footer__info__h1">
           Created by {data.site.siteMetadata.author.name} © 2021
         </h1>
+        <h2 className="footer__info__h1">
+          {data.site.siteMetadata.author.summary}
+        </h2>
         <div className="footer__links">
           <a
             href="https://github.com/subudei"

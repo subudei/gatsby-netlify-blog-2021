@@ -9,6 +9,9 @@ function VideoSection() {
     <div className="video__section__container">
       <video src={Video} type="video/mp4" autoPlay loop muted />
       <h1 className="video__section__message">Water awaits you</h1>
+      <h3 className="video__section__description">
+        freshwater spinn fishing blog
+      </h3>
       <Link to="/blog">
         <button className="video__section__btn">Join me on my journey</button>
       </Link>

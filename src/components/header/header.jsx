@@ -8,6 +8,11 @@ function Header() {
   const [click, setClick] = useState(false)
   const handleClick = () => setClick(clicked => !clicked)
   const closeMobileMenu = () => setClick(false)
+  // const handleKeyPress = e => {
+  //   if (e.keyCode === 13) {
+  //     setClick(clicked => !clicked)
+  //   }
+  // }
   const data = useStaticQuery(graphql`
     query {
       site {
