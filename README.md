@@ -24,5 +24,7 @@ Live version available here:
 
  **What does it show?**
 
-    This project shows my ability to use Gatsby JS framework starter and create functional web blog, implementing React Hooks, using Netlyfy CMS to create blog and uploading it directly, also using GraphQL for API queries.
+    This project shows my ability to use Gatsby JS framework starter and create functional web blog,
+    implementing React Hooks, using Netlyfy CMS to create blog and uploading it directly,
+    also using GraphQL for API queries.
 
